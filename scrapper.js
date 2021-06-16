@@ -35,9 +35,9 @@ let code_chef={
 }
 
 
-// var finalrating = await code_chef.getRating(url);
-// var finalstars  = await code_chef.getStarts(url);
-// var Fsolved     = await code_chef.getSolved(url);
+var finalrating = await code_chef.getRating(url);
+var finalstars  = await code_chef.getStarts(url);
+var Fsolved     = await code_chef.getSolved(url);
 
 // console.log(finalrating);
 // console.log(finalstars);
